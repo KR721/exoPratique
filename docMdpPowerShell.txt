@@ -1,0 +1,3 @@
+Génération d'un mot de passe aléatoire sous PowerShell 
+L'objectif est d'indiquer sommairement les grandes lignes du programme de génération automatique d'un mot de passe aléatoire.
+Le principe est de lancer un programme qui permet de définir aléatoirement un mot de passe de plus de 10 caractères alphanumériques mélangeant des minuscules, des majuscules et des caractères spéciaux.
