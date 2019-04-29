@@ -1,9 +1,9 @@
 function a() {
-	return "a"
+	return "A"
 }
 
 function b() {
-	return "b"
+	return "B"
 }
 
 
