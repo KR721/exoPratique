@@ -1,6 +1,6 @@
-//  Renvoie le carré d'un nombre
+//  Renvoie le carrÃ© d'un nombre
 function carre(x) {
-//TODO : compléter le code de la fonction
+//TODO : complÃ©ter le code de la fonction
 	var produit = x*x ;
 	return produit;
 }
