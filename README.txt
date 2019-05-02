@@ -10,5 +10,5 @@ Il s'agit de créer un repository Git simple contenant :
     Au moins 4 commits distincts montrant l’ajout puis la modification de certains fichiers.
 
 Les deux fichiers en question sont les suivants.
-Un fichier nommé carré.js issue d'un programme écrit en Javascript.
+Un fichier nommé carreNombre.js issue d'un programme écrit en Javascript.
 Un fichier texte décrivant un projet personnel docMdpPowerShell.txt.
